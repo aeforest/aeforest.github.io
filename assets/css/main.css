@@ -1171,6 +1171,10 @@
 	p, ul, ol, dl, table {
 		margin-bottom: 2em;
 	}
+	
+	p {
+	  text-align: left;
+	}
 
 /* Form */
 
